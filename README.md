@@ -72,4 +72,3 @@ Refer to the Features section in the README file for details on how to use speci
 ## License
 
 Pippi is released under the [MIT License](https://opensource.org/licenses/MIT).
-```
